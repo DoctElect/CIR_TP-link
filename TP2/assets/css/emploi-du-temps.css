@@ -1,7 +1,8 @@
 .calendar {
     border:none;
-    padding: 0;
+    padding:0;
     margin:0;
+    width :100%;
     table-layout: fixed;
     border-collapse: collapse;
     font-family: 'Courier New', Courier, monospace;
